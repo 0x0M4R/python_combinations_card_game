@@ -1,0 +1,2 @@
+# python_combinations_card_game
+Command-line interface card game written in Python with object-oriented programming. Two decks are generated and shuffled, 14 cards are handed out to each player. The objective of game is to put down all of the cards first. Players can only put their cards down in combinations of 3 or more consecutive rank, same suit cards or same rank, different suit cards. In each round the player picks up one card and chooses one card to discard. First player to put all their cards down wins.
